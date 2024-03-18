@@ -1,0 +1,34 @@
+[ 
+    {
+    "name":"Rax-100",
+    "price":"879",
+    "disc":"The best shoes ",
+    "maincat":"menfashion",
+    "subcat":"shoes",
+    "image":"https://firebasestorage.googleapis.com/v0/b/admin-72cf1.appspot.com/o/my_images%2Fss.png?alt=media&token=52735813-60a4-4429-abb5-1d221d588b4c"
+   },
+    {
+    "name":"deni",
+    "price":"456",
+    "disc":"cotton-shirt",
+    "maincat":"womenfashion",
+    "subcat":"shirt",
+    "image":"https://firebasestorage.googleapis.com/v0/b/admin-72cf1.appspot.com/o/my_images%2Fteshirtt.png?alt=media&token=b5925311-75fc-49d5-9596-654e5a462f0e"
+   },
+    {
+    "name":"laura",
+    "price":"64",
+    "disc":"lip-stick",
+    "maincat":"womenfashion",
+    "subcat":"beauty",
+    "image":"https://firebasestorage.googleapis.com/v0/b/admin-72cf1.appspot.com/o/my_images%2FMakeup.png?alt=media&token=d1c1f4d3-435c-45a6-a098-4819d51ce570"
+   },
+    {
+    "name":"steel",
+    "price":"349",
+    "disc":"best-long lasting women deo",
+    "maincat":"womenfashion",
+    "subcat":"beauty",
+    "image":"https://firebasestorage.googleapis.com/v0/b/admin-72cf1.appspot.com/o/discount%2FScreenshot%202024-03-03%20211441.png?alt=media&token=334f3221-102e-41a1-b795-b9781527378a"
+   }
+]
